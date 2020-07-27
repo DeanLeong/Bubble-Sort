@@ -5,8 +5,8 @@
 // if the next value is less than the current value
 // they swap places in the array.
 
-// let arr = [4, 7, 8, 2, 5, 1];
-let arr = [6, 1, 2, 3, 4, 5];
+let arr = [4, 7, 8, 2, 5, 1];
+// let arr = [6, 1, 2, 3, 4, 5];
 console.log("Original", arr);
 
 function bubbleSort(arr) {
